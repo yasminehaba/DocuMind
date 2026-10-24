@@ -1,0 +1,31 @@
+
+# Python / Django
+__pycache__/
+*.py[cod]
+*.log
+db.sqlite3
+.env
+.env.*
+!.env.example
+
+# Environnements virtuels
+docu_env/
+venv/
+.venv/
+my_env/
+
+# Flutter / Dart
+**/.dart_tool/
+**/.packages
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/android/local.properties
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
